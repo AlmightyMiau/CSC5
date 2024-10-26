@@ -1,0 +1,70 @@
+//Ivy Fudge               CSC5            Chapter 2, P. 83, #16
+//
+/**************************************************************
+ * PRINT DIAMOND PATTERN [STRONG VERB] [STRONG OBJECT]
+ * _____________________________________________________________
+ * This program prints a diamond pattern made of asterisks (*)
+ * The diamond is 7 lines tall and 7 characters wide. 
+ * [A description of what the program does, unrelated to how it
+ * does it]
+ * _____________________________________________________________
+ *
+ * Constant
+ *	size : Diamond radius in lines (width is 2x-1)
+ *
+ * Variables
+ * 	i : Diamond line from 0 -> 3
+ *	j : Diamond character from 0 -> 3
+ *
+ **************************************************************/
+#include <iostream>
+#include <iomanip>
+using namespace std;
+int main ()
+{ 
+	const int size = 4;			 //CONSTANT - Height of diamond 
+	
+//
+//	Print the upper part of the diamond
+	for (int i = 0; i < size; i++)
+    {
+//
+//		Print leading spaces
+        for (int j = 0; j < size - i - 1; j++)
+        {
+			cout << " ";
+		}
+//
+//		Print asterisks
+		for (int j = 0; j < 2 * i + 1; j++) 
+		{
+			cout << "*";
+		}
+//
+//		Start the new line
+        cout << "\n";
+    }
+
+//
+//	Print the lower part of the diamond
+	for (int i = size - 2; i >= 0; i--)
+    {
+//
+//		Print leading spaces
+        for (int j = 0; j < size - i - 1; j++)
+        {
+			cout << " ";
+		}
+//
+//		Print asterisks
+		for (int j = 0; j < 2 * i + 1; j++)
+		{
+			cout << "*";
+		}
+//
+//		Start the new line
+        cout << "\n";
+    }
+
+	return 0;
+}

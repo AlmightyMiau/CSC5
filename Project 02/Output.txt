@@ -1,0 +1,46 @@
+********************************************************
+* Author        : Ivy Fudge                            *
+* Student ID    : 2973023                              *
+* Assignment #2 : Repetition & Switch Statement        *
+* Class         : CSC5                                 *
+* Section       : MW 2:20PM - 5:30PM                   *
+* Due Date      : 10/7/2024                            *
+********************************************************
+
+TEST #1:
+
+	Enter Letter Grade (enter 'X' to exit): A
+	Enter Letter Grade (enter 'X' to exit): b
+	Enter Letter Grade (enter 'X' to exit): A
+	Enter Letter Grade (enter 'X' to exit): d
+	Enter Letter Grade (enter 'X' to exit): c
+	Enter Letter Grade (enter 'X' to exit): F
+	Enter Letter Grade (enter 'X' to exit): A
+	Enter Letter Grade (enter 'X' to exit): X
+
+Total Grade Points: 18
+GPA: 2.57
+
+
+TEST #2:
+
+	Enter Letter Grade (enter 'X' to exit): a
+	Enter Letter Grade (enter 'X' to exit): G
+
+	Invalid letter grade, please try again
+
+	Enter Letter Grade (enter 'X' to exit): B
+	Enter Letter Grade (enter 'X' to exit): e
+
+	Invalid letter grade, please try again
+
+	Enter Letter Grade (enter 'X' to exit): C
+	Enter Letter Grade (enter 'X' to exit): x
+
+Total Grade Points: 9
+GPA: 3.00
+
+
+TEST #3:
+
+	Enter Letter Grade (enter 'X' to exit): x

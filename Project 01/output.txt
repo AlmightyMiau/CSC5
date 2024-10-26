@@ -1,0 +1,41 @@
+********************************************************
+* Author        : Ivy Fudge                            *
+* Student ID    : 2973023                              *
+* Assignment #1 : Basic Input / Output                 *
+* Class         : CIS5                                 *
+* Section       : MW 2:20PM - 5:30PM                   *
+* Due Date      : 9/16/2024                            *
+********************************************************
+What is your name?                  Ivy Fudge
+What is your current annual salary? 80000
+What is your pay increase?          0.07
+
+Ivy Fudge's SALARY INFORMATION
+New Salary     Monthly Salary     Retroactive Pay
+  85600.00            7133.33             2800.00
+
+<Press enter to continue>
+
+
+What is your name?                  Boy Boy
+What is your current annual salary? 150000
+What is your pay increase?          2
+
+Boy Boy's SALARY INFORMATION
+New Salary     Monthly Salary     Retroactive Pay
+ 450000.00           37500.00           150000.00
+
+<Press enter to continue>
+
+
+What is your name?                  I Did A Thing
+What is your current annual salary? 200
+What is your pay increase?          50
+
+I Did A Thing's SALARY INFORMATION
+New Salary     Monthly Salary     Retroactive Pay
+  10200.00             850.00             5000.00
+
+<Press enter to continue>
+
+
