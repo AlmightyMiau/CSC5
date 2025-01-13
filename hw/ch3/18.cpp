@@ -1,4 +1,4 @@
-//Ivy Fudge               CSC5            Chapter 3, P. 147, #18
+//Miau Miau               CSC5            Chapter 3, P. 147, #18
 //
 /***************************************************************
  * CALCULATE SLICES PER PIZZA

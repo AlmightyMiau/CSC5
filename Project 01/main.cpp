@@ -1,5 +1,5 @@
 /*******************************************************************************
- * Author        : Ivy Fudge                                                   *
+ * Author        : Miau Miau                                                   *
  * Student ID    : 2973023                                                     *
  * Assignment #1 : Basic Input / Output                                        *
  * Class         : CIS5                                                        *

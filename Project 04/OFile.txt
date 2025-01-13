@@ -1,0 +1,13 @@
+ID #     NAME                     BALANCE DUE
+----     --------------------     -----------
+1375     Garnet Burrell           $     76.55
+5521     Mariko Caddell           $     45.98
+7814     Kazuko Dworkin           $    579.76
+3820     Sal Earnhardt            $    237.41
+7842     Faith Ertle              $    291.00
+1000     Daren Hellickson         $    547.42
+4532     Eliz Maranto             $     12.99
+2310     Cassondra Ohman          $     77.52
+1092     Leia Skelley             $     27.95
+2092     Estelle Vanzant          $    822.56
+             Average Balance Due: $    271.91

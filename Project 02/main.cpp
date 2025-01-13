@@ -1,5 +1,5 @@
 /*******************************************************************************
- * Author        : Ivy Fudge                                                   *
+ * Author        : Miau Miau                                                   *
  * Student ID    : 2973023                                                     *
  * Assignment #2 : Repetition & Switch Statement                               *
  * Class         : CIS5                                                        *
@@ -53,7 +53,7 @@ int main ()
 
 	// Output class header
 	cout << "********************************************************\n" <<
-		"* Author        : Ivy Fudge                            *\n" <<
+		"* Author        : Miau Miau                            *\n" <<
 		"* Student ID    : 2973023                              *\n" <<
 		"* Assignment #1 : Basic Input / Output                 *\n" <<
 		"* Class         : CIS5                                 *\n" <<

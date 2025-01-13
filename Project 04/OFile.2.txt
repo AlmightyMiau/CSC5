@@ -1,0 +1,4 @@
+ID #     NAME                     BALANCE DUE
+----     --------------------     -----------
+1092     Leia Skelley             $     27.95
+             Average Balance Due: $     27.95

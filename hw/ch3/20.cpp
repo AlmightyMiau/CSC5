@@ -1,4 +1,4 @@
-//Ivy Fudge               CSC5            Chapter 3, P. 147, #20
+//Miau Miau               CSC5            Chapter 3, P. 147, #20
 //
 /**************************************************************
  * COMPUTE SIN, COS, TANGENT OF ANGLE

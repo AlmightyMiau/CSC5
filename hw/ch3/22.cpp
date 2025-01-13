@@ -1,4 +1,4 @@
-//Ivy Fudge               CSC5            Chapter 3, P. 148, #22
+//Miau Miau               CSC5            Chapter 3, P. 148, #22
 //
 /***************************************************************
  * PLAY WORD GAME

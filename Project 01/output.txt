@@ -1,16 +1,16 @@
 ********************************************************
-* Author        : Ivy Fudge                            *
+* Author        : Miau Miau                            *
 * Student ID    : 2973023                              *
 * Assignment #1 : Basic Input / Output                 *
 * Class         : CIS5                                 *
 * Section       : MW 2:20PM - 5:30PM                   *
 * Due Date      : 9/16/2024                            *
 ********************************************************
-What is your name?                  Ivy Fudge
+What is your name?                  Miau Miau
 What is your current annual salary? 80000
 What is your pay increase?          0.07
 
-Ivy Fudge's SALARY INFORMATION
+Miau Miau's SALARY INFORMATION
 New Salary     Monthly Salary     Retroactive Pay
   85600.00            7133.33             2800.00
 
